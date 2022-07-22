@@ -16,10 +16,7 @@ public class Main {
                 System.out.print(weight1[i] + ",");
             else
                 System.out.print(weight1[i]+1 + ",");
-
-
             }
-
 
     public static void task1() {
         int[] i = new int[3];
